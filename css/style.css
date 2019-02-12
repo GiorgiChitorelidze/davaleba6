@@ -16,3 +16,10 @@ body{
 .text{
 	text-align: center;
 }
+.main-container2{
+	background-color: #29ABE2;
+	height: 100%;
+	width: 100%;
+	border: 5px solid #0071BC;
+	padding:3.4%
+}
